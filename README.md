@@ -27,10 +27,10 @@ Dès que l'on pense qu'une branche, donc une fonctionnalité est terminée, on e
    
               Nos différentes branches :
 - liste-carte (paris, londres, berlin)
-- liste-personnages (toto, loic, tom)
+- liste-personnages (toto, nana, tom)
 - différent-menu (menu-pause, ecran-accueil, ecran-fin)
 - différent-niveau (1,2,3)
-Dans notre <<.gitignore>> nous avons décider de mettre un nouveau niveau   
+- Dans notre <<.gitignore>> nous avons décider de mettre un nouveau niveau   
 
 
              Démarche suivie:
